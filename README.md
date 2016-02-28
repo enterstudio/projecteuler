@@ -869,5 +869,5 @@ in extra Dateien ausgelagert.
 
 Ein primitives Primzahlsieb.
 
-<p><a href="primetool.rb">primetool.rb</a></p>
+<p><a href="files/primetool.rb">primetool.rb</a></p>
 
