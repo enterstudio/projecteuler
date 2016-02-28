@@ -3,11 +3,6 @@ Project Euler solutions in Ruby
 
 ![fw](http://projecteuler.net/profile/fw.png "fw")
 
-
-<a href="http://de.wikipedia.org/wiki/Leonhard_Euler">
-<img src="images/euler.jpg" alt="Project Euler" style="float: right; margin: 10px;" />
-</a>
-
 <p>
 Bei <a href="http://www.projecteuler.net/">Project Euler</a> handelt es sich um
 eine Webseite mit einer Art "Programmierwettbewerb" für mehr oder weniger
